@@ -37,23 +37,6 @@ Generated Array: [0, 1, 4, 9, 16, 25, 36, 49, 64, 81]
 - DOM Manipulation
 - Event Listeners
 
-## Future Enhancements
-
-- ## Key JavaScript Concepts Used
-
-- `while` Loop
-- Arrays
-- DOM Manipulation
-- Event Listeners
-
-## Future Enhancements
-
-- ## Key JavaScript Concepts Used
-
-- `while` Loop
-- Arrays
-- DOM Manipulation
-- Event Listeners
 
 ## Future Enhancements
 
